@@ -39,7 +39,7 @@
     "minifyWXSS": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.16.1",
+  "libVersion": "2.16.0",
   "appid": "wxdff00890cd5d414a",
   "projectname": "weChatProgram",
   "debugOptions": {
